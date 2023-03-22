@@ -20,3 +20,4 @@
 |**4주차**<br> (03.02 ~ 03.08)|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)||
 |**5주차**<br> (03.09 ~ 03.15)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)||
 |**6주차**<br> (03.16 ~ 03.22)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)||
+|**7주차**<br> (03.23 ~ 03.29)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)||
