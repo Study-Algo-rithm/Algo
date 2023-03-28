@@ -13,7 +13,7 @@ function solution(s) {
         for(let j=0;j<len;j++){
             if(arr.length!==0
                 && ( (arr[arr.length-1]==='(' && str2[0]===')') || (arr[arr.length-1]==='{' && str2[0]==='}') || (arr[arr.length-1]==='[' && str2[0]===']') ) ){
-                    arr.shift();
+                    arr.pop();
                     str2.shift();
             }else{
                 temp = str2[0];
