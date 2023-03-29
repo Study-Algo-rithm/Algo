@@ -21,3 +21,4 @@
 |**5주차**<br> (03.09 ~ 03.15)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)||
 |**6주차**<br> (03.16 ~ 03.22)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)||
 |**7주차**<br> (03.23 ~ 03.29)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)||
+|**8주차**<br> (03.30 ~ 04.05)|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)||
