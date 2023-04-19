@@ -23,3 +23,4 @@
 |**7주차**<br> (03.23 ~ 03.29)|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)||
 |**8주차**<br> (03.30 ~ 04.05)|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)||
 |**9주차**<br> (04.13 ~ 04.19)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)||
+|**10주차**<br> (04.20 ~ 04.26)|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)||
