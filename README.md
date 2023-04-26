@@ -24,3 +24,4 @@
 |**8주차**<br> (03.30 ~ 04.05)|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)||
 |**9주차**<br> (04.13 ~ 04.19)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)||
 |**10주차**<br> (04.20 ~ 04.26)|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)||
+|**11주차**<br> (04.27 ~ 05.03)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)||
