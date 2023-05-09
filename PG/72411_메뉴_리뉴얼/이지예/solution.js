@@ -4,11 +4,11 @@ function solution(orders, course) {
   const maxNum = Array(10 + 1).fill(0); //course가 10개. 근데 크기가 1에서 10까지니까 11개의 배열을 만드는듯
 
   const createSet = (arr, start, len, foods) => {
-    //(["A","B","C","F","G"], 2,0,"AB")
+    //(["A","B","C","F","G"], 2,0,"AB") //(["A","B","C","F","G"], 3,0,"AC")
     if (len === 0) {
-      ordered[foods] = (ordered[foods] || 0) + 1; //{"AB":1}
+      ordered[foods] = (ordered[foods] || 0) + 1; //{AB:1, AC:1}
       if (ordered[foods] > 1) candidates[foods] = ordered[foods]; //{"AB":2} 임시
-      maxNum[foods.length] = Math.max(maxNum[foods.length], ordered[foods]); // [0,0,0|1,0,0,0,0,0,0,0,0]
+      maxNum[foods.length] = Math.max(maxNum[foods.length], ordered[foods]); // [0,0,1,0,0,0,0,0,0,0,0]
       return;
     }
 
