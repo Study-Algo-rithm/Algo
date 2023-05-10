@@ -26,3 +26,4 @@
 |**10주차**<br> (04.20 ~ 04.26)|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)||
 |**11주차**<br> (04.27 ~ 05.03)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)||
 |**12주차**<br> (05.04 ~ 05.10)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)||
+|**13주차**<br> (05.11 ~ 05.17)|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)||
