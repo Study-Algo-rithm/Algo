@@ -12,8 +12,8 @@
 ## 📝 주차별 문제
 <details><summary>문제 확인</summary>
 
-|주차|1|2|
-|:---:|:---:|:---:|
+|주차|1|2|3|
+|:---:|:---:|:---:|:---:|
 |**1주차**<br> (02.09 ~ 02.15)|[파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)||
 |**2주차**<br> (02.16 ~ 02.22)|[2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|[N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)||
 |**3주차**<br> (02.23 ~ 03.01)|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|[~~괄호 변환~~](https://school.programmers.co.kr/learn/courses/30/lessons/60058)||
@@ -28,3 +28,4 @@
 |**12주차**<br> (05.04 ~ 05.10)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)||
 |**13주차**<br> (05.11 ~ 05.17)|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)||
 |**14주차**<br> (05.25 ~ 05.31)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)||
+|**15주차**<br> (06.01 ~ 06.07)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)||
