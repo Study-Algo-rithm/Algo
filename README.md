@@ -30,3 +30,4 @@
 |**14주차**<br> (05.25 ~ 05.31)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)||
 |**15주차**<br> (06.01 ~ 06.07)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)||
 |**16주차**<br> (06.08 ~ 06.14)|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[3xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)||
+|**17주차**<br> (06.24 ~ 06.28)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[게리맨더링](https://www.acmicpc.net/problem/17471)||
