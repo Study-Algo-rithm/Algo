@@ -31,7 +31,6 @@ const subset = (ind, arr) => {
       //선택 or 비선택 연결 체크
       const checkConnect = (arr, linkedArr, num, AB) => {
         linkedArr.push(num);
-        linkedArr.sort();
         if (arr.length === linkedArr.length) {
           if (AB) resultA = true;
           else resultB = true;
