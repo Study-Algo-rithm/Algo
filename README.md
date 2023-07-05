@@ -32,3 +32,4 @@
 |**16주차**<br> (06.08 ~ 06.14)|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[3xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)||
 |**17주차**<br> (06.24 ~ 06.28)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|[게리맨더링](https://www.acmicpc.net/problem/17471)||
 |**18주차**<br> (06.29 ~ 07.05)|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)||
+|**19주차**<br> (07.06 ~ 07.12)|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)||
