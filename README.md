@@ -34,3 +34,4 @@
 |**18주차**<br> (06.29 ~ 07.05)|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)||
 |**19주차**<br> (07.06 ~ 07.12)|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)||
 |**20주차**<br> (07.20 ~ 07.26)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)||
+|**21주차**<br> (07.27 ~ 08.02)|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)|[다리 만들기 2](https://www.acmicpc.net/problem/17472)||
