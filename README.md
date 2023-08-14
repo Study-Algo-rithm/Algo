@@ -36,3 +36,4 @@
 |**20주차**<br> (07.20 ~ 07.26)|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)||
 |**21주차**<br> (07.27 ~ 08.02)|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)|[다리 만들기 2](https://www.acmicpc.net/problem/17472)||
 |**22주차**<br> (08.03 ~ 08.09)|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|[Build Gates](https://www.acmicpc.net/problem/11975)||
+|**23주차**<br> (08.10 ~ 08.16)|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|[새로운 게임](https://www.acmicpc.net/problem/17780)||
