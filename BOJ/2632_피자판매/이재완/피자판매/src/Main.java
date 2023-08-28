@@ -42,7 +42,7 @@ public class Main {
 
         //피자 A로 만들 수 있는 합들 하나씩 꺼냄
         for(int i=0;i<=pizzaATotal;i++) {
-            if(cntA[i]!=0){
+            if(cntA[i]!=0&&cntA[i]<=wantSize){
                 valA= i;
                 valB=wantSize-valA;
                 if(valB<0||valB>pizzaBTotal)
